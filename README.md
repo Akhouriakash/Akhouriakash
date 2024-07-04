@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akhouriakash" alt="Akhouriakash" /></a> </p>
 
 
+
 - 🌱 I’m currently learning **Web Development**
 
 - 🤝 I’m looking for help with **DSA**
