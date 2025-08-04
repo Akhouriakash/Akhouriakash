@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhouri Akash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU0N3pqNzM5OWV1dDBjZXc5aWJxaTIyemlvNXMyYmVlcG5xcDA4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp" ></img></p>
+<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU0N3pqNzM5OWV1dDBjZXc5aWJxaTIyemlvNXMyYmVlcG5xcDA4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp" height=600 width=800 ></img></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akhouriakash&label=Profile%20views&color=0e75b6&style=flat" alt="akhouriakash" /> </p>
 
