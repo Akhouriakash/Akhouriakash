@@ -3,62 +3,82 @@
 <h1 align="center">Hi 👋, I'm Akhouri Akash</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
----
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="400" width="600" />
+</p>
 
-### 🚀 About Me
-- 🎓 Final-year **B.Tech CSE student**
-- 💻 Passionate about **Web Development & Java Backend**
-- 🌱 Currently learning **Next.js & Cloud Deployment**
-- ⚡ Fun fact: I love solving coding challenges on **LeetCode & GFG**
+<!-- Profile views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akhouriakash&label=Profile%20views&color=0e75b6&style=flat" alt="akhouriakash" />
+</p>
 
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<!-- Frontend -->
-<h4>Frontend</h4>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="55"/>
-
-<!-- Backend -->
-<h4>Backend</h4>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="55"/>
-
-<!-- Database -->
-<h4>Database</h4>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="55"/>
-
-</div>
+<!-- Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akhouriakash&theme=darkhub&margin-w=10&margin-h=10" alt="akhouriakash trophies" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 About Me  
+- 🎓 Final-year **B.Tech CSE student**  
+- 💻 Passionate about **Web Development & Java Backend**  
+- 🌱 Currently learning **Next.js & Cloud Deployment**  
+- ⚡ Fun fact: I love solving coding challenges on **LeetCode & GFG**  
 
-<div align="center">
+---
+
+### 🛠️ Languages and Tools  
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
   
-![Akhouri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhouriakash&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhouriakash&layout=compact&theme=radical)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhouriakash&theme=dark&currStreakLabel=fa7a18&fire=fa7a18&ring=fa7a18" width="400">
-
-</div>
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  
+  <!-- Database -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+</p>
 
 ---
 
-### 📫 Connect with me
+### 📊 GitHub Stats  
 
-<div align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhouriakash&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-- 📧 **Email**: [akhouriakash10@gmail.com](mailto:akhouriakash10@gmail.com)  
-- 💼 **LinkedIn**: [Akhouri Akash](https://www.linkedin.com/in/akhouri-akash-934188243)  
-- 🐦 **X (Twitter)**: [@akhouri_akash](https://x.com/akhouri_akash)  
-- 👨‍💻 **GitHub**: [akhouriakash](https://github.com/akhouriakash)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhouriakash&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhouriakash&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 📫 Connect with me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akhouri-akash-934188243" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:akhouriakash10@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://x.com/akhouri_akash" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="Twitter/X" height="30" width="40" />
+  </a>
+  <a href="https://github.com/akhouriakash" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30" width="40" />
+  </a>
+</p>
